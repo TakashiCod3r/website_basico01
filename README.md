@@ -1,2 +1,2 @@
-# website_basico01
-web site moderno e basico para atender pequenas empresas de contabildiade
+# takashi_card_v1
+card simples
